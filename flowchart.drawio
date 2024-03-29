@@ -1,0 +1,192 @@
+<mxfile host="app.diagrams.net" modified="2024-02-28T15:13:12.020Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="QypuNMPvw8H6j0tgo4kd" version="23.1.7" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="979" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9_Py-xxHWJm0X2HY8rH0-0" target="9_Py-xxHWJm0X2HY8rH0-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-0" value="&lt;b&gt;Αρχίζει το T1&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="330" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9_Py-xxHWJm0X2HY8rH0-1" target="9_Py-xxHWJm0X2HY8rH0-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-1" value="&lt;b&gt;Πράσινο για αυτοκίνητα&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="330" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9_Py-xxHWJm0X2HY8rH0-4" target="9_Py-xxHWJm0X2HY8rH0-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9_Py-xxHWJm0X2HY8rH0-4" target="9_Py-xxHWJm0X2HY8rH0-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-4" value="&lt;b&gt;Τελείωσε το Τ1 ; &lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="210" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9_Py-xxHWJm0X2HY8rH0-6" target="9_Py-xxHWJm0X2HY8rH0-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-6" value="&lt;b&gt;Πράσινο για το &lt;br&gt;Τραμ&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9_Py-xxHWJm0X2HY8rH0-8" target="9_Py-xxHWJm0X2HY8rH0-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-8" value="&lt;b&gt;Κόκκινο για τα αυτοκίνητα&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9_Py-xxHWJm0X2HY8rH0-10" target="9_Py-xxHWJm0X2HY8rH0-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-10" value="&lt;b&gt;Πράσινο για τους πεζούς&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-12" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;ΝΑΙ&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="210" y="330" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9_Py-xxHWJm0X2HY8rH0-14" target="9_Py-xxHWJm0X2HY8rH0-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-14" value="&lt;b&gt;Τελείωσε το Τ2 ; &lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="680" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9_Py-xxHWJm0X2HY8rH0-14" target="9_Py-xxHWJm0X2HY8rH0-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-17" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;ΟΧΙ&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="280" y="705" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9_Py-xxHWJm0X2HY8rH0-19" target="9_Py-xxHWJm0X2HY8rH0-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-19" value="&lt;b&gt;Κόκκινο για το Τραμ, κόκκινο για τους πεζούς&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="20" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-22" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;ΝΑΙ&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="110" y="710" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9_Py-xxHWJm0X2HY8rH0-23" target="9_Py-xxHWJm0X2HY8rH0-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-23" value="&lt;b&gt;Αρχίζουν Τ1, Τ3&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="20" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9_Py-xxHWJm0X2HY8rH0-27" target="9_Py-xxHWJm0X2HY8rH0-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="86ML0SbqPg7K9MGnBIhg-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9_Py-xxHWJm0X2HY8rH0-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-27" value="&lt;b&gt;Πατήθηκε το &lt;br&gt;κουμπί ; &lt;br&gt;&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="300" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-31" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;ΟΧΙ&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="280" y="270" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9_Py-xxHWJm0X2HY8rH0-33" target="9_Py-xxHWJm0X2HY8rH0-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="86ML0SbqPg7K9MGnBIhg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9_Py-xxHWJm0X2HY8rH0-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-33" value="&lt;b&gt;Τελείωσε το Τ3 ; &lt;br&gt;&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="450" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9_Py-xxHWJm0X2HY8rH0-36" target="9_Py-xxHWJm0X2HY8rH0-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-36" value="&lt;b&gt;Κόκκινο για τα αυτοκίνητα&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9_Py-xxHWJm0X2HY8rH0-38" target="9_Py-xxHWJm0X2HY8rH0-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-38" value="&lt;b&gt;Πράσινο για τους πεζούς&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9_Py-xxHWJm0X2HY8rH0-40" target="9_Py-xxHWJm0X2HY8rH0-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-40" value="&lt;b&gt;Αρχίζει το T2&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="86ML0SbqPg7K9MGnBIhg-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9_Py-xxHWJm0X2HY8rH0-43" target="86ML0SbqPg7K9MGnBIhg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="86ML0SbqPg7K9MGnBIhg-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9_Py-xxHWJm0X2HY8rH0-43" target="86ML0SbqPg7K9MGnBIhg-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-43" value="&lt;b&gt;Τελείωσε το Τ2 ; &lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="870" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-45" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;ΝΑΙ&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="530" y="420" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-46" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;ΝΑΙ&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="530" y="570" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9_Py-xxHWJm0X2HY8rH0-48" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;ΝΑΙ&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="650" y="900" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="86ML0SbqPg7K9MGnBIhg-1" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;ΟΧΙ&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="330" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="86ML0SbqPg7K9MGnBIhg-3" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;ΟΧΙ&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="485" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="86ML0SbqPg7K9MGnBIhg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="86ML0SbqPg7K9MGnBIhg-4" target="9_Py-xxHWJm0X2HY8rH0-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="86ML0SbqPg7K9MGnBIhg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="86ML0SbqPg7K9MGnBIhg-4" target="9_Py-xxHWJm0X2HY8rH0-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="86ML0SbqPg7K9MGnBIhg-4" value="&lt;b&gt;Τελείωσε το Τ1 ; &lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="870" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="86ML0SbqPg7K9MGnBIhg-6" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;ΟΧΙ&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="900" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="86ML0SbqPg7K9MGnBIhg-12" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;ΟΧΙ&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="960" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="86ML0SbqPg7K9MGnBIhg-15" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;ΝΑΙ&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="389" y="840" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="86ML0SbqPg7K9MGnBIhg-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="86ML0SbqPg7K9MGnBIhg-16" target="86ML0SbqPg7K9MGnBIhg-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="86ML0SbqPg7K9MGnBIhg-16" value="&lt;b&gt;Κόκκινο για τους πεζούς&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="86ML0SbqPg7K9MGnBIhg-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="86ML0SbqPg7K9MGnBIhg-23" target="9_Py-xxHWJm0X2HY8rH0-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="86ML0SbqPg7K9MGnBIhg-23" value="&lt;b&gt;Αρχίζει Τ3&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
